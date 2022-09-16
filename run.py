@@ -1,6 +1,6 @@
 #!/usr/bin/python3.9
 
-import time, json, requests, config, discord, asyncio
+import json, requests, config, discord
 from discord.ext import commands
 from bs4 import BeautifulSoup
 from datetime import datetime
