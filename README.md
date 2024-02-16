@@ -1,5 +1,7 @@
 # SteamPrex
 
+## Deprecated since Steam removed regional prices for Argentina
+
 ### Amazing discord bot that calculates taxes and currency conversion from argentinian peso to uruguayan peso automatically when you send a Steam store link or use the comand !sp and the game title.
 
 
@@ -11,11 +13,8 @@ Currencies are scraped on start up, a function to scrape every x time could be a
 
 Examples:
 
+![image](https://github.com/federicocanedo/steamprex/assets/102973963/ae337546-5cff-4610-b228-e3f8971a3252)
+
 ![image](https://user-images.githubusercontent.com/102973963/190547827-12d1beb1-4a46-4a26-a0ed-4d7e92a1bb27.png)
 
-Link
-
-
 ![image](https://user-images.githubusercontent.com/102973963/190547875-6f8ba338-9f9f-46f8-8114-f7e22f609559.png)
-
-Command
